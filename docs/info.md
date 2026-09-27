@@ -11,6 +11,8 @@ You can also include images in this folder and reference them in the markdown. E
 
 Explain how your project works
 
+controls 16 outputs. Each can be off, on, or controlled by PWM. SPI commands set which outputs are enabled which use PWM, and the shared PWM duty cycle
+
 ## How to test
 
 Explain how to use your project
